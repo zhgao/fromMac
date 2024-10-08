@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QMi9Rgpx5CxiP3BT0A8X-4" value="TCC：Try, Confirm, Cancel&lt;div&gt;TCC分布式事务不依赖RM（Resource Manager）的支持，而是通过对业务逻辑的分解来实现分布式事务&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="570" height="30" as="geometry" />
+          <mxGeometry x="40" y="40" width="570" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
